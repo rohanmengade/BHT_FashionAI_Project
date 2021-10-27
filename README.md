@@ -7,8 +7,9 @@
 4. Generation of Fashion Images with the help of DCGAN
 
 ## 1. Sales Perfromance Data Analysis
-1. For the sales performance data analysis, the sales data is provided in the csv file. Run the '**Sales Performance Analysis.ipynb**' file. 
-2. Result: For this use case, The analysis shows, 'Trousers/Hose' is the trending product for customer in FS 21.
+1. For the sales performance data analysis, the sales data is provided in the csv file. Google Drive: https://drive.google.com/drive/folders/1BZn58-7iasLeLUMfQnW-OG4gw2UPUQmJ?usp=sharing
+2. Run the '**Sales Performance Analysis.ipynb**' file. 
+3. Result: For this use case, The analysis shows, 'Trousers/Hose' is the trending product for customer in FS 21.
 
 ## 2. Collection and Pre-processing of Fashion Images based on sales data analysis-- for product 'Trousers/Hose'
  1. For Collecting the Fashion images for item 'Trousers/Hose', the bulk bing downloader and Fatkun Imanges Batch Downloder (Chrome Extension) is used.
