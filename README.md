@@ -13,7 +13,9 @@
 ## 2. Collection and Pre-processing of Fashion Images based on sales data analysis-- for product 'Trousers/Hose'
  1. For Collecting the Fashion images for item 'Trousers/Hose', the bulk bing downloader and Fatkun Imanges Batch Downloder (Chrome Extension) is used.
  2. Then stor all gathered images in local folder. Afterwards, run the file '**Fashion Images Data Pre-processing.ipynb**' for fashion images data pre-processing. 
-     Here, specify the local folder path where the collected fashion images of 'Trousers/Hose'. 
+     Here, specify the local folder path where the collected fashion images of 'Trousers/Hose'.
+     
+     Here in this case, we uploaded all the fashion images data in Google Drive : 
  3. Results: Processed Fashion Images data. (Duplicates Removal, File Format Change, Resized Images)
  4. Store these fashion images for Further process. 
     
