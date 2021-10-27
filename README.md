@@ -15,7 +15,7 @@
  2. Then stor all gathered images in local folder. Afterwards, run the file '**Fashion Images Data Pre-processing.ipynb**' for fashion images data pre-processing. 
      Here, specify the local folder path where the collected fashion images of 'Trousers/Hose'.
      
-     Here in this case, we uploaded all the fashion images data in Google Drive : 
+     Here in this case, we uploaded all the fashion images data in Google Drive : https://drive.google.com/drive/folders/1BZn58-7iasLeLUMfQnW-OG4gw2UPUQmJ?usp=sharing
  3. Results: Processed Fashion Images data. (Duplicates Removal, File Format Change, Resized Images)
  4. Store these fashion images for Further process. 
     
