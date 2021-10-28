@@ -16,7 +16,7 @@
  2. Then stor all gathered images in local folder. Afterwards, run the file '**Fashion Images Data Pre-processing.ipynb**' for fashion images data pre-processing. 
      Here, specify the local folder path where the collected fashion images of 'Trousers/Hose'.
      
-     Here in this case, we uploaded all the fashion images data in Google Drive : https://drive.google.com/drive/folders/1BZn58-7iasLeLUMfQnW-OG4gw2UPUQmJ?usp=sharing
+     For this project, all the fashion images data can be found in Google Drive : https://drive.google.com/drive/folders/1BZn58-7iasLeLUMfQnW-OG4gw2UPUQmJ?usp=sharing
  3. Results: Processed Fashion Images data. (Duplicates Removal, File Format Change, Resized Images)
  4. Store these fashion images for Further process. 
     
@@ -24,9 +24,9 @@
 ## 3. Generation of Fashion Images with the help of DCGAN
 
 1. We have to set-up Google Colab Pro in order to generate the fashion images. 
-2. Go to Google Colab, set up account.
+2. Go to Google Colab, set up account. Change run time to GPU.
 3. You have to mount the drive and upload the Processed fashion images data of 'Trousers/Hose' (for this use case) in the Google Drive.
-4. Then run the file '**Fashion Images Generation.ipynb**' In this file, plases specify the fashion Images folder path ('Trousers/Hose' path).
+4. Then run the file '**Fashion Images Generation.ipynb**' In this file, plases specify the fashion Images folder path of Google Drive ('Trousers/Hose' path).
 
 ** Also, you can specify learning rate and number of epochs in order to get better output results.**
 
